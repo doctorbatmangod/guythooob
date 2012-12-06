@@ -1,0 +1,12 @@
+Machine learning techniques and use of event information for stock market prediction: a
+survey and evaluation by Paul D. Yoo, Maria H. Kim, Tony Jan 2007
+
+The Efficient Market Hypothesis and Its Critics by Malkiel 2003
+
+Using news articles to predict stock price movements by Gidofalvi 2001
+
+Links between Perceptrons, MLPs and SVMs by Collobert 2004
+
+Multilayer perceptrons and backpropagation learning 9.641 Lecture 4 by Sebastian Seung September 2002
+
+
